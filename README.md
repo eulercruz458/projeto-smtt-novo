@@ -1,2 +1,1 @@
-# projeto-smtt-novo
-update do site
+# Projeto-SMTT
