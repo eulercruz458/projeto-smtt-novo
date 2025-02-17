@@ -91,7 +91,8 @@ button:focus {
 }
 
 #trocarRoxoCinza{
-    background-color: #8400ff;
+   
+    background-color: #8b8b8b;
     border-radius: 6px;
     font-size: 1.2rem;
     grid-column: span 2;
@@ -99,18 +100,19 @@ button:focus {
 }
 
 #trocarRoxoCinza:hover {
-    background-color: #52009e;
+    background-color: #616161;
 }
 
 #trocarCinzaRoxo{
-    background-color: #8b8b8b;
+    background-color: #8400ff;
     border-radius: 6px;
     font-size: 1.2rem;
     grid-column: span 2;
     margin-top: 5px; /* Menor espaço entre os botões */
 }
 #trocarCinzaRoxo:hover {
-    background-color: #616161;
+   
+    background-color: #52009e;
 }
 
 
